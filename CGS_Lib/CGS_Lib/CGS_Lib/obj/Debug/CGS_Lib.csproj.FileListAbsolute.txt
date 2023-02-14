@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Lib\CGS_Lib\bin\Debug\CGS_Lib.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Lib\CGS_Lib\bin\Debug\CGS_Lib.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.pdb

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.exe.config
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\bin\Debug\CGS_Windows.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.mainForm.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Login.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\bin\Debug\CGS_Lib.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\bin\Debug\CGS_Lib.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.SellArtPiece.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Windows\CGS_Windows\obj\Debug\CGS_Windows.Return.resources

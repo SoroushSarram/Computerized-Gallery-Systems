@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\bin\Debug\net6.0\CGS_Struct.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\bin\Debug\net6.0\CGS_Struct.deps.json
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\bin\Debug\net6.0\CGS_Struct.runtimeconfig.json
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\bin\Debug\net6.0\CGS_Struct.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\bin\Debug\net6.0\CGS_Struct.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\refint\CGS_Struct.dll
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\CGS_Struct.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Struct\CGS_Struct\obj\Debug\net6.0\ref\CGS_Struct.dll
