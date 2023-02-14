@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\bin\Debug\CGS_Database.exe.config
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\bin\Debug\CGS_Database.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\bin\Debug\CGS_Database.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.CGS.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.exe
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.pdb
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.Curator.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.Artist.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.ArtPiece.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.Sell.resources
+C:\Users\Lenovo\Documents\Multi-tier Applications\CGS_Database\CGS_Database\obj\Debug\CGS_Database.Login.resources
